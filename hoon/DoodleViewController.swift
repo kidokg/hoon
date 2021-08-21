@@ -19,7 +19,7 @@ class DoodleViewController: UIViewController {
         }()
         
         var drawingNode: SCNNode?
-        
+        //れれれれれれれれれl。krjhくぉfひお；frジェ:おgへ
         override func viewDidLoad() {
             super.viewDidLoad()
             
