@@ -17,7 +17,7 @@ class DoodleViewController: UIViewController {
             configuration.environmentTexturing = .automatic
             return configuration
         }()
-        
+        //cdljcohiho
         var drawingNode: SCNNode?
         //れれれれれれれれれl。krjhくぉfひお；frジェ:おgへ
         override func viewDidLoad() {
